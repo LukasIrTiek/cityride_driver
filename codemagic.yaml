@@ -18,7 +18,6 @@ workflows:
           flutter pub get
       - name: Set up iOS project
         script: |
-          # Ši komanda sugeneruoja trūkstamus iOS failus (podhelper.rb ir kt.)
           flutter precache --ios
           flutter build ios --config-only
       - name: Install CocoaPods
