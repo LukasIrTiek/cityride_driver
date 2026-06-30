@@ -19,7 +19,7 @@ workflows:
       - name: Set up iOS project
         script: |
           flutter precache --ios
-          flutter build ios --config-only
+          flutter build ios --simulator --config-only
       - name: Install CocoaPods
         script: |
           cd ios && pod install
