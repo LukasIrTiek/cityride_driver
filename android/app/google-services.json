@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "508874226215",
+    "firebase_url": "https://patikimastaksikaune-cee32-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "patikimastaksikaune-cee32",
+    "storage_bucket": "patikimastaksikaune-cee32.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508874226215:android:368b122ee672bc278fac02",
+        "android_client_info": {
+          "package_name": "com.cityride.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7H3yOBY5AhBJaLQ8wp1-1YlnOsCSkhQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508874226215:android:9c41fec0955d42598fac02",
+        "android_client_info": {
+          "package_name": "com.cityride.passenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7H3yOBY5AhBJaLQ8wp1-1YlnOsCSkhQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508874226215:android:6f04979eabc9ef648fac02",
+        "android_client_info": {
+          "package_name": "com.example.cityride_driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7H3yOBY5AhBJaLQ8wp1-1YlnOsCSkhQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508874226215:android:ccc21f0f152e85b78fac02",
+        "android_client_info": {
+          "package_name": "com.example.cityride_mvp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7H3yOBY5AhBJaLQ8wp1-1YlnOsCSkhQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
